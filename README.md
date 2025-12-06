@@ -17,18 +17,13 @@
 
 <!-- Animated Contact Buttons -->
 <p>
-  <a href="mailto:arraghul06@gmail.com">
+  <a href="mailto:aravindhaj2005@@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/raghul-ar05/">
     <img src="https://img.shields.io/badge/LinkedIn-Network_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/raghul017">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://raghul-portfolio2.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  
 </p>
 
 </div>
@@ -44,7 +39,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```typescript
+typescript
 const aravindh: Developer = {
     education: "🎓 B.Tech CSE - Data Science @ LPU",
     location: "📍 India 🇮🇳",
@@ -54,7 +49,6 @@ const aravindh: Developer = {
     },
     
     expertise: [
-        "⚡ Building scalable MERN apps (10K+ users)",
         "🤖 Developing AI-powered SaaS platforms",
         "🔍 Crafting RAG pipelines (LangChain & FAISS)",
         "🚀 Optimizing databases (45% faster queries)"
@@ -70,7 +64,7 @@ const aravindh: Developer = {
     
     funFact: "I turn coffee into code! ☕→💻"
 };
-```
+
 
 <br/>
 
