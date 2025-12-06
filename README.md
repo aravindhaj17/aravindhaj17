@@ -45,13 +45,12 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```typescript
-const raghul: Developer = {
-    education: "🎓 B.Tech CSE - AI & Data Engineering @ LPU",
+const aravindh: Developer = {
+    education: "🎓 B.Tech CSE - Data Science @ LPU",
     location: "📍 India 🇮🇳",
     
     experience: {
-        current: "💼 Full Stack Web Dev Intern @ Edu Tantra",
-        previous: "📊 Data Science Intern @ Futurense Tech"
+        Previous: "💼 Java Intern @ Cipher Schools"
     },
     
     expertise: [
