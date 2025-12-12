@@ -15,7 +15,7 @@
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm constantly learning and growing my skills
 - 💬 Ask me about web development, coding, and tech
-- 📫 How to reach me: **aravindhaj2005@gmail.com**
+- 📫 How to reach me: **your.email@example.com**
 - ⚡ Fun fact: I turn coffee into code! ☕💻
 
 ## 🛠️ Technologies & Tools
