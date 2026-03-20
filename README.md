@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Aravindha J
+# Hi there! 👋 I'm Aravindh A J
 
 <div align="center">
   
